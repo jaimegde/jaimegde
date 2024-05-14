@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 <h3 align="center">Currently working towards Mobile & Web development with Kotlin. I have professional experience with data science & ML.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimegde" alt="jaimegde" /></a> </p>
-
 - 🔭 I’m currently working on **URPSC**
 
 - 🌱 I’m currently learning **Kotlin Mobile development**
@@ -18,3 +16,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimegde&show_icons=true&locale=en&layout=compact" alt="jaimegde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegde&" alt="jaimegde" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimegde" alt="jaimegde" /></a> </p>
