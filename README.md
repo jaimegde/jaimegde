@@ -5,7 +5,10 @@
 
 - 🔭 I’m currently working on **URPSC**
 
-- 🌱 I’m currently learning **Kotlin Web & App development**
+- 🌱 I’m currently learning **Kotlin Mobile development**
+
+- 🤙 I’m open for colaborations!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
