@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaime</h1>
+<h1 align="center">Hi 👋, I'm Jaime GdE</h1>
 <h3 align="center">Currently working towards Mobile & Web development with Kotlin. I have professional experience with data science & ML.</h3>
 
 - 🔭 I’m currently working on **URPSC**
