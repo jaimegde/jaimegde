@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin Mobile development**
 
-- 🤙 I’m open for colaborations!
+- 🤙 I’m open for collaborations!
 
 <p align="left">
 </p>
