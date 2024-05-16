@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime GdE</h1>
 <h3 align="center">Currently working towards Mobile development with Kotlin. I have professional experience with data science & ML.</h3>
 
-- 🔭 I’m currently working on **URPSC**
+- 🔭 I’m currently working on **URPSC** (private repo)! A game I'm planning on publishing on the Google & App Store mid June. All done with Kotlin. The repo will be public two weeks after publishing the game!
 
-- 🌱 I’m currently learning **Kotlin Mobile development**
+- 🌱 I’m currently learning **Kotlin Mobile development**!
 
 - 🤙 I’m open for collaborations!
 
