@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin Mobile development**! Eventually want to build web apps with Kotlin as well.
 
-- 🤙 I’m open for collaborations!
-
 <p align="left">
 </p>
 
