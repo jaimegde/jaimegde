@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **URPSC** (private repo)! A game I'm planning on publishing on the Google & App Store in July. All done with Kotlin. The repo will be public two weeks after publishing the game!
 
-- 🌱 I’m currently learning **Kotlin Mobile development**! Eventually want to build web apps with Kotlin as well.
+- 🌱 I’m currently learning **Kotlin Mobile development**! Eventually want to build multiplatform apps with Kotlin as well.
 
 <p align="left">
 </p>
