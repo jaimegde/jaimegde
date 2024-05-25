@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime GdE</h1>
-<h3 align="center">Currently working towards Multiplatform development with Kotlin. I have professional experience with data science & ML.</h3>
+<h3 align="center">Currently working towards Multiplatform development with Kotlin. I have professional experience with data science & analytics.</h3>
 
 - 🔭 I’m currently working on **URPSC** (private repo)! A game I'm planning on publishing on the Google & App Store in July. All done with Kotlin. The repo will be public two weeks after publishing the game!
 
