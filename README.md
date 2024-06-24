@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime GdE</h1>
 <h3 align="center">Currently working towards Multiplatform development with Kotlin. I have professional experience with data science & analytics.</h3>
 
-- 🔭 I’m currently working on a mobile game using Kotlin that should be out mid July! The web version by the end of the summer using Kotlin Multiplatform.
+- 🔭 I’m currently working on a mobile game using Kotlin! 
 
-- 🌱 I’m currently learning **Kotlin Mobile development**! Eventually want to build multiplatform apps with Kotlin as well.
+- 🌱 I’m currently learning **Kotlin Multiplatform**! 
 
 <p align="left">
 </p>
